@@ -1,0 +1,17 @@
+C:\Users\pweer\source\repos\insurrance\CHI\CHI.Application\bin\Debug\net7.0\CHI.Application.deps.json
+C:\Users\pweer\source\repos\insurrance\CHI\CHI.Application\bin\Debug\net7.0\CHI.Application.dll
+C:\Users\pweer\source\repos\insurrance\CHI\CHI.Application\bin\Debug\net7.0\CHI.Application.pdb
+C:\Users\pweer\source\repos\insurrance\CHI\CHI.Application\bin\Debug\net7.0\CHI.Domain.dll
+C:\Users\pweer\source\repos\insurrance\CHI\CHI.Application\bin\Debug\net7.0\CHI.Infrastructure.dll
+C:\Users\pweer\source\repos\insurrance\CHI\CHI.Application\bin\Debug\net7.0\CHI.Domain.pdb
+C:\Users\pweer\source\repos\insurrance\CHI\CHI.Application\bin\Debug\net7.0\CHI.Infrastructure.pdb
+C:\Users\pweer\source\repos\insurrance\CHI\CHI.Application\obj\Debug\net7.0\CHI.Application.csproj.AssemblyReference.cache
+C:\Users\pweer\source\repos\insurrance\CHI\CHI.Application\obj\Debug\net7.0\CHI.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pweer\source\repos\insurrance\CHI\CHI.Application\obj\Debug\net7.0\CHI.Application.AssemblyInfoInputs.cache
+C:\Users\pweer\source\repos\insurrance\CHI\CHI.Application\obj\Debug\net7.0\CHI.Application.AssemblyInfo.cs
+C:\Users\pweer\source\repos\insurrance\CHI\CHI.Application\obj\Debug\net7.0\CHI.Application.csproj.CoreCompileInputs.cache
+C:\Users\pweer\source\repos\insurrance\CHI\CHI.Application\obj\Debug\net7.0\CHI.Application.csproj.CopyComplete
+C:\Users\pweer\source\repos\insurrance\CHI\CHI.Application\obj\Debug\net7.0\CHI.Application.dll
+C:\Users\pweer\source\repos\insurrance\CHI\CHI.Application\obj\Debug\net7.0\refint\CHI.Application.dll
+C:\Users\pweer\source\repos\insurrance\CHI\CHI.Application\obj\Debug\net7.0\CHI.Application.pdb
+C:\Users\pweer\source\repos\insurrance\CHI\CHI.Application\obj\Debug\net7.0\ref\CHI.Application.dll
